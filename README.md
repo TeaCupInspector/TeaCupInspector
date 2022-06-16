@@ -2,7 +2,7 @@
 - 👀 I’m interested into tea cup inspecting
 - 🌱 I’m currently learning Teacupology
 - 💞️ I’m looking to collaborate on the inspection of every tea cup in the world
-- 📫 How to reach me: look under the last teacup you used.
+- 📫 How to reach me: look under the last tea cup you used.
 
 <!---
 TeaCupInspector/TeaCupInspector is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
